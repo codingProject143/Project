@@ -1,8 +1,3 @@
-// 11 ADDING extra featurs
-// added high score display and Login window
-// 13 Login widow + Logo
-// show the user name in window
-
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
@@ -270,4 +265,5 @@ class Game extends JPanel implements ActionListener{
         frame.add(in);
         frame.setVisible(true);    
     }
+
 }
